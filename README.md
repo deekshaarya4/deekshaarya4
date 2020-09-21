@@ -2,6 +2,7 @@
 
 <!--
 **deekshaarya4/deekshaarya4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Deeksha Arya is a PhD student in computer Science at McGill University. Her research focuses on the current software documentation landscape and its role in the education of computer science. She also is interested in the application of natural language processing and machine learning in software engineering research to help programmers learn software technologies.
 
