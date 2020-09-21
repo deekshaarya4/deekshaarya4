@@ -16,4 +16,4 @@ Deeksha is also a professional Indian classical dancer, having trained in Bharat
 
 Email: firstname.lastname@mail.mcgill.ca
 
-Twitter: @DeekshaMArya
+Twitter: [@DeekshaMArya](http://twitter.com/DeekshaMArya)
